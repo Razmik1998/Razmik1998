@@ -56,6 +56,5 @@ Designed a robust web scraping and analysis pipeline for large-scale data extrac
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Razmik1998&layout=compact&theme=dark)
 
 ## 📫 Connect with Me
-- **Email:** [razmik.nubaryan@example.com](mailto:razmik.nubaryan@example.com)
-- **LinkedIn:** [linkedin.com/in/razmik-nubaryan](https://linkedin.com/in/razmik-nubaryan)
-- **Portfolio:** [razmiknubaryan.dev](https://razmiknubaryan.dev)
+- **Email:** [nubaryan.razmik89@gmail.com](mailto:nubaryan.razmik89@gmail.com)
+- **LinkedIn:** [linkedin.com/in/razmik-nubaryan](https://www.linkedin.com/in/razmik-nubaryan-60b165206/)
