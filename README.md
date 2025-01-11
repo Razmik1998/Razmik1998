@@ -36,24 +36,24 @@ I’m a Senior Python Developer with over 5 years of experience specializing in 
 - Led backend architecture design and implementation for multiple large-scale projects.
 
 ## 💡 Featured Projects
-### [E-Commerce Backend System](https://github.com/RazmikNubaryan/ecommerce-backend)
+### [E-Commerce Backend System]
 Built a high-performance backend for an e-commerce platform using Django REST Framework and AWS.
 - **Features:** Secure user authentication, scalable APIs, payment processing with Stripe
 - **Tech Stack:** Django, PostgreSQL, Redis, Celery, Docker, AWS
 
-### [Real-Time Chat Application](https://github.com/RazmikNubaryan/realtime-chat)
+### [Real-Time Chat Application]
 Developed a real-time messaging application with Socket.IO and FastAPI.
 - **Features:** Real-time chat, message storage, and notifications
 - **Tech Stack:** FastAPI, MongoDB, RabbitMQ, Docker
 
-### [Data Scraping & Analysis Pipeline](https://github.com/RazmikNubaryan/data-scraping-pipeline)
+### [Data Scraping & Analysis Pipeline]
 Designed a robust web scraping and analysis pipeline for large-scale data extraction.
 - **Features:** Automated scraping, data transformation, and insights generation
 - **Tech Stack:** Scrapy-Selenium, Pandas, Elasticsearch
 
 ## 📈 GitHub Stats
-![Razmik's GitHub stats](https://github-readme-stats.vercel.app/api?username=RazmikNubaryan&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazmikNubaryan&layout=compact&theme=dark)
+![Razmik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Razmik1998&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Razmik1998&layout=compact&theme=dark)
 
 ## 📫 Connect with Me
 - **Email:** [razmik.nubaryan@example.com](mailto:razmik.nubaryan@example.com)
